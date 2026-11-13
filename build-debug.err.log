@@ -1,0 +1,36 @@
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\node_modules\@react-native-async-storage\async-storage\android\src\javaPackage\java\com\reactnativecommunity\asyncstorage\AsyncStoragePackage.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+E:\TD\react\Ch1cky (4535 MS1)\node_modules\react-native-device-info\android\src\main\java\com\learnium\RNDeviceInfo\RNDeviceModule.java:188: warning: [removal] onCatalystInstanceDestroy() in NativeModule has been deprecated and marked for removal
+  public void onCatalystInstanceDestroy() {
+              ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 warning
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\node_modules\react-native-worklets\android\src\main\java\com\swmansion\worklets\WorkletsMessageQueueThreadBase.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\node_modules\react-native-worklets\android\src\main\java\com\swmansion\worklets\WorkletsPackage.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\node_modules\react-native-linear-gradient\android\src\main\java\com\BV\LinearGradient\LinearGradientPackage.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\node_modules\react-native-play-install-referrer\android\src\main\java\com\uerceg\play_install_referrer\PlayInstallReferrerPackage.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\android\app\src\main\java\com\kFjQzLm\VpRnTx\webview\ViewportBridge.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: E:\TD\react\Ch1cky (4535 MS1)\android\app\src\main\java\com\kFjQzLm\VpRnTx\linkkit\WebViewAppLinkResolver.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
