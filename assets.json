@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Codex-generated bg for Ch1cky"
+    },
+    {
+      "name": "button_rect",
+      "type": "button",
+      "prompt": "Codex-generated button for Ch1cky"
+    },
+    {
+      "name": "button_round",
+      "type": "button",
+      "prompt": "Codex-generated button for Ch1cky"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Codex-generated icon for Ch1cky"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for Ch1cky"
+    }
+  ]
+}
